@@ -1,1 +1,1 @@
-# algorithm homework
+# NCTU algorithm programming assignment
